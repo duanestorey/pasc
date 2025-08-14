@@ -1,3 +1,7 @@
+## Menu
+
+[tests.md](Tests)
+
 ## Information
 
 This website was set up to try and give patients, doctors, and researchers access to materials and resources that will help patients and the medical community deal with the unfortunately reality of post acute COVID19 syndrone, known as PASC. Here you find comprehensive updates on testing availability, research being done, care plans, and links to any relevant organizations.
