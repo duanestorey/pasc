@@ -1,5 +1,5 @@
 ---
-id: Tests
+id: tests
 ---
 
 Hey
