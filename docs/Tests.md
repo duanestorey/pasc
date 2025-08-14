@@ -1,3 +1,5 @@
-layout: page
-title: "Tests"
-permalink: /tests
+---
+id: Tests
+---
+
+Hey
