@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PAGE-TITLE"
+title: "Post-Acute Sequelae of COVID-19 (PASC) Resources"
 permalink: /
 ---
 
