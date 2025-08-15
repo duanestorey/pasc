@@ -6,7 +6,7 @@ Here is a listing of private laboratories around the world with tests that may h
 
 ## United States
 
-- DirectLabs: CytoDx (Cytokine assay, serum)-Diagnostic Solutions Kit
+- DirectLabs: [CytoDx (Cytokine assay, serum)-Diagnostic Solutions Kit](https://store.directlabs.com/category/122)
 
 ## Europe
 
