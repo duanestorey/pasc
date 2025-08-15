@@ -1,6 +1,7 @@
-# Post-Acute Sequelae of COVID-19 (PASC) Resources
-
-Up-to-date information about PASC research, testing, treatment, and news
+---
+title: Post-Acute Sequelae of COVID-19 (PASC) Resources
+description: Up-to-date information about PASC research, testing, treatment, and news
+---
 
 ## Quick Links
 
