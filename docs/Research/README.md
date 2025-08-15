@@ -16,3 +16,5 @@ Join a group of individuals testing their blood for up to 20,000 gene expression
 - AI/ML platform processing of 350+ personal health data points
 - Research insights across ~1,500 biological pathways
 - Generation of transcriptomic profile and personalised report
+
+More info - [Jack Hadfield](https://x.com/JackHadfield14)
