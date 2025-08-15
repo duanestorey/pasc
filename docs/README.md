@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Post-Acute Sequelae of COVID-19 Resources"
+title: "Post-Acute Sequelae of COVID-19"
 permalink: /
 ---
 
