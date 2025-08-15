@@ -1,9 +1,3 @@
----
-layout: default
-title: Post-Acute Sequelae of COVID-19 (PASC) Resources
-description: Up-to-date information about PASC research, testing, treatment, and news
----
-
 ## Quick Links
 
 [Latest](Latest/README.md) &middot; [Testing](Tests/README.md) &middot; [Research](Research/README.md) &middot; [Resources](Resources/README.md) 
