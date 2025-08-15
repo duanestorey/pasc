@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Post-Acute Sequelae of COVID-19 (PASC) Resources
 description: Up-to-date information about PASC research, testing, treatment, and news
 ---
