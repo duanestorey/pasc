@@ -1,6 +1,6 @@
 ## Menu
 
-[Latest](latest.md) &middot; [Testing](tests.md) &middot; [Research](research.md)
+[Latest](latest.md) &middot; [Testing](Tests/README.md) &middot; [Research](research.md)
 
 ## Information
 
