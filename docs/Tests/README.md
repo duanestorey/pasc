@@ -1,3 +1,9 @@
+---
+layout: default
+title: "COVID-19 Testing Resources"
+permalink: /testing
+---
+
 # Testing
 
 One of the issues I see many people with long covid19 experience is their inability to convince doctors of their illness. Many laboratory results will show variations for PASC, often in terms of the lymphocyte or cytokine profiles - but these labs aren't routinely ordered by doctors, many of which simply rely on CRP or other markers as proxies for any systemic issues. 

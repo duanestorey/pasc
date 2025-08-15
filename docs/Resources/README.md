@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Post-Acute Sequelae of COVID-19 Resources"
+permalink: /resources
+---
+
 # Resources
 
 Here are some of the best resources for patients and providers.
