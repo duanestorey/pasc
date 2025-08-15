@@ -8,8 +8,6 @@ Here is a listing of private laboratories around the world with tests that may h
 
 - DirectLabs: [CytoDx (Cytokine assay, serum)-Diagnostic Solutions Kit](https://store.directlabs.com/category/122)
 
-## Europe
-
-### Spain
+## Spain
 
 - [Teletest Immune Status PLUS](https://www.teletest.es/producto/inmune-status-plus/): Contains detailed cytokine, viral, lymphocyte profiling, Th status, etc.
